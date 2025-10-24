@@ -81,20 +81,8 @@ The notebook focuses on comparing **different learning rate schedulers** and how
 - Explore smaller ResNet variants (e.g., ResNet18) for faster training.  
 
 ---
+## Training Logs:
 
-## 🧩 Dependencies
-
-```bash
-torch
-torchvision
-albumentations
-matplotlib
-numpy
-tqdm
-
----
-Logs:
-## Logs
 EPOCH: 1
 Loss=3.869758129119873 Batch_id=195 Accuracy=7.47: 100%|██████████| 196/196 [01:33<00:00,  2.10it/s]
 Test set: Average loss: 3.8226 ,Top-1 Accuracy: 1278/10000 (12.78%)%
@@ -294,4 +282,15 @@ Test set: Average loss: 1.1152 ,Top-1 Accuracy: 7406/10000 (74.06%)%
 EPOCH: 50
 Loss=0.9070953726768494 Batch_id=195 Accuracy=94.41: 100%|██████████| 196/196 [01:34<00:00,  2.07it/s]
 Test set: Average loss: 1.1202 ,Top-1 Accuracy: 7408/10000 (74.08%)%
+
+
+## 🧩 Dependencies
+
+```bash
+torch
+torchvision
+albumentations
+matplotlib
+numpy
+tqdm
 
