@@ -92,6 +92,7 @@ matplotlib
 numpy
 tqdm
 
+---
 Logs:
 ## Logs
 EPOCH: 1
