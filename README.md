@@ -26,7 +26,7 @@ This project trains a **ResNet50 model from scratch** on the **CIFAR-100** datas
 |------------|--------|
 | Dataset | CIFAR-100 |
 | Input Size | 32 × 32 |
-| Batch Size | 128 |
+| Batch Size | 256 |
 | Epochs | 50 |
 | Optimizer | AdamW |
 | Starting LR | 0.001 |
